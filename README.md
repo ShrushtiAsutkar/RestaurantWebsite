@@ -1,5 +1,6 @@
-# RestaurantWebsite
+# RestaurantWebsite :shallow_pan_of_food:
 A static website using html,css and bit of javascript
+
 Live Demo:https://raw.githack.com/ShrushtiAsutkar/RestaurantWebsite/main/index.html
 
 https://user-images.githubusercontent.com/85578946/132892373-caed89eb-d05c-4b75-ba77-fe3ec99e6eae.mp4
